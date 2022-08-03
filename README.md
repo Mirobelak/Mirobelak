@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Solidity.**
 
-- 👨‍💻 All of my projects are available at [https://miroslav-belak.netlify.com/](https://miroslav-belak.netlify.com/)
+- 👨‍💻 Some of my projects are available at [https://miroslav-belak.netlify.com/](https://miroslav-belak.netlify.com/)
 
 - 📫 How to reach me **miroslavbelak123@gmail.com**
 
