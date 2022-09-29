@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Miro !</h1>
 <h3 align="center">Developer from Slovakia.</h3>
 
-- 🔭 I’m currently working on **Full stack React app**
+- 🔭 I’m currently working on **Full stack React apps**
 
-- 🌱 I’m currently learning **React and Solidity.**
+- 🌱 I’m currently learning **React Native and Solidity.**
 
-- 👨‍💻 Some of my projects are available at [https://miroslav-belak.netlify.com/](https://miroslav-belak.netlify.com/)
+- 👨‍💻 Some of my projects are available at https://github.com/Mirobelak?tab=repositories
 
 - 📫 How to reach me **miroslavbelak123@gmail.com**
 
