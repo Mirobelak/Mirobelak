@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miro !</h1>
-<h3 align="center">Developer from Slovakia.</h3>
+<h3 align="center">Web3 Developer from Slovakia.</h3>
 
-- 🔭 I’m currently working on **Full stack React apps**
+- 🔭 I’m currently working on **Dapps**
 
-- 🌱 I’m currently learning **React Native and Solidity.**
+- 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 Some of my projects are available at https://github.com/Mirobelak?tab=repositories
 
