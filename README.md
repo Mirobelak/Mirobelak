@@ -3,9 +3,15 @@
 
 - 🔭 I’m currently working on **Dapps**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Rust and improving in Solidity**
 
 - 👨‍💻 Some of my projects are available at https://github.com/Mirobelak?tab=repositories
+
+- 🎥 I am also making videos on YTB, IG and TikTok about web3 space and how to become developer from scratch
+
+- TikTok - https://www.tiktok.com/@00_coding
+
+- YTB: https://www.youtube.com/@00_coding
 
 - 📫 How to reach me **miroslavbelak123@gmail.com**
 
