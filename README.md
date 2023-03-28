@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Miro !</h1>
-<h3 align="center">Web3 Developer from Slovakia.</h3>
+<h3 align="center">Developer from Slovakia focusing in web3 space</h3>
 
-- 🔭 I’m currently working on **Dapps**
-
-- 🌱 I’m currently learning **Rust and improving in Solidity**
+- 🌱 I’m currently learning **Rust and improving in Solidity Security**
 
 - 👨‍💻 Some of my projects are available at https://github.com/Mirobelak?tab=repositories
-
-- 🎥 I am also making videos on YTB, IG and TikTok about web3 space and how to become developer from scratch
-
-- TikTok - https://www.tiktok.com/@00_coding
-
-- YTB: https://www.youtube.com/@00_coding
 
 - 📫 How to reach me **miroslavbelak123@gmail.com**
 
